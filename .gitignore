@@ -1,1 +1,7 @@
-"Part B/data/"
+.ipynb_checkpoints
+
+Part*B/data/
+Part*B/fb_cookies.txt
+Part*A/emo_classification/model/
+Part*A/emo_classification/dataset/
+Project slides presentation.pptx
